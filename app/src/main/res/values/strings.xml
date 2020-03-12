@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="read_book">Читать</string>
+    <string name="Math">Math</string>
+    <string name="Physics">Physics</string>
+    <string name="IT">IT</string>
+    <string name="Favourites">Favourites</string>
+
+</resources>
